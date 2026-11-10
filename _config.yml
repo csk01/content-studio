@@ -1,0 +1,11 @@
+title: Personalized Content Studio
+theme: jekyll-theme-minimal
+exclude:
+  - src
+  - tests
+  - docs
+  - samples
+  - pyproject.toml
+  - CLAUDE.md
+  - README.md
+  - .env.example
